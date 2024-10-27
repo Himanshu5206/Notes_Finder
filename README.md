@@ -6,7 +6,7 @@ it is a comprehensive tool designed for students to manage and organize their st
 There are Four features in this projects containing the Home,Resource,books and assignments
 
 
-.![Screenshot 2024-10-27 191201](https://github.com/user-attachments/assets/d0737d35-4b44-4bad-80cb-cf2fa97fbbef)
+![Screenshot 2024-10-27 191201](https://github.com/user-attachments/assets/d0737d35-4b44-4bad-80cb-cf2fa97fbbef)
 
 Book Finder
 
