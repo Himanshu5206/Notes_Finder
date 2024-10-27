@@ -1,4 +1,4 @@
-#  Notes Finder
+#  iNotes - A one solution to track assignment,books and different resource
 
 ## Project Overview
 
