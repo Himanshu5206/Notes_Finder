@@ -1,10 +1,9 @@
 #  Notes Finder
 
-Project Overview
-it is a comprehensive tool designed for students to manage and organize their study materials efficiently. It simplifies the process of tracking assignments, finding resources, and organizing essential notes, helping students stay on top of their workload. Whether it’s finding a particular book, searching for assignments, or quickly accessing handbooks and other resources, Notes Finder is built to keep you o
+##Project Overview
 
 
-rganized and productive.
+it is a comprehensive tool designed for students to manage and organize their study materials efficiently. It simplifies the process of tracking assignments, finding resources, and organizing essential notes, helping students stay on top of their workload. Whether it’s finding a particular book, searching for assignments, or quickly accessing handbooks and other resources, Notes Finder is built to keep you organized and productive.
 
 There are Four features in this projects containing the Home,Resource,books and assignments
 
